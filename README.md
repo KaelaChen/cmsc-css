@@ -4,17 +4,21 @@ These are themes for the [CMSC 341](https://userpages.umbc.edu/~cmarron/cs341.f1
  
 ## How to Use
 
-You can apply a theme to your current page by using the Style Editor in your browser's Developer Tools.
+### Firefox
+
+1. Download the theme(s) you want.
+2. Open the Style Editor (Shortcut: Shift + F7)
+
+Once the Style Editor is open, you should see a '+' on the left side of the panel. Next to it is a little box with an arrow. Click that button and load the theme you want to use.
 
 ### Google Chrome
 
-### Firefox
+This one is unfortunately a bit more work.
 
-Keyboard Shortcut: Shift + F7
-
-Or, go to Tools > Web Developer > Style Editor
-
-Once the Style Editor is open, you should see a '+' on the left side of the panel. Next to it is a little box with an arrow. Click that button and load the theme you want to use.
+1. Open Chrome Developer Tools (Shortcut: F12)
+2. Click the '+' on the right side to generate a new style sheet
+3. Click on the new link ('inspector-stylesheet')
+4. Paste the theme's text into it.
 
 ## Modifying
 
